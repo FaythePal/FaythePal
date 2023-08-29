@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FaythePal
 - 👀 I’m interested in website development
 - 🌱 I’m currently learning Google Workspace 
-- 💞️ I’m looking to collaborate on API
+- 💞️ I’m looking to collaborate on HTML
 - 📫 You can reach me at faythepal@gmail.com
 
 <!---
